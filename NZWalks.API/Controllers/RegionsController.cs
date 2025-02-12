@@ -108,7 +108,7 @@ namespace NZWalks.API.Controllers
             //    Id = regionDomainModel.Id,
             //    Code = regionDomainModel.Code,
             //    Name = regionDomainModel.Name,
-            //    RegionImageUrl = regionDomainModel.RegionImageUrl
+            //    RegionImageUrl =  regionDomainModel.RegionImageUrl
             //};
 
             var regionDto = mapper.Map<RegionDto>(regionDomainModel);
