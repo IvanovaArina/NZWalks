@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NZWalks.API.CustomActionFilters;
 using NZWalks.API.Data;
 using NZWalks.API.Models.Domain;
 using NZWalks.API.Models.DTO;
@@ -82,6 +83,7 @@ namespace NZWalks.API.Controllers
         }
 
         //POST to create new region
+        [ValidateModel]
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] AddRegionRequestDto addRegionRequestDto) 
         {
@@ -93,8 +95,8 @@ namespace NZWalks.API.Controllers
             //    Name = addRegionRequestDto.Name,
             //    RegionImageUrl=addRegionRequestDto.RegionImageUrl
             //}; 
-
-            var regionDomainModel = mapper.Map<Region>(addRegionRequestDto);
+           
+           { var regionDomainModel = mapper.Map<Region>(addRegionRequestDto);
 
             //Use domain model to create region
             regionDomainModel = await regionRepository.CreateAsync(regionDomainModel);
@@ -111,12 +113,15 @@ namespace NZWalks.API.Controllers
 
             var regionDto = mapper.Map<RegionDto>(regionDomainModel);
 
-            return CreatedAtAction(nameof(GetById), new {id = regionDto.Id}, regionDto);
+                return CreatedAtAction(nameof(GetById), new { id = regionDto.Id }, regionDto);
+            }
+             
         }
 
         //Update region
         [HttpPut]
         [Route("{id:Guid}")]
+        [ValidateModel]
         public async Task<IActionResult> Update([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegionRequestDto)
         {
             //convert UpdateRegionDto to domain model
@@ -127,7 +132,6 @@ namespace NZWalks.API.Controllers
             //    Code = updateRegionRequestDto.Code,
             //    RegionImageUrl = updateRegionRequestDto.RegionImageUrl
             //};
-
             var regionDomainModel = mapper.Map<Region>(updateRegionRequestDto);
 
             regionDomainModel = await regionRepository.UpdateAsync(id,regionDomainModel);
@@ -137,20 +141,21 @@ namespace NZWalks.API.Controllers
                 return NotFound();
             }
 
-           //await dbContext.SaveChangesAsync();
+                //await dbContext.SaveChangesAsync();
 
-            //Convert domain model to dto
-            //var regionDto = new RegionDto
-            //{
-            //    Id = regionDomainModel.Id,
-            //    Code = regionDomainModel.Code,
-            //    Name = regionDomainModel.Name,
-            //    RegionImageUrl = regionDomainModel.RegionImageUrl
-            //};
+                //Convert domain model to dto
+                //var regionDto = new RegionDto
+                //{
+                //    Id = regionDomainModel.Id,
+                //    Code = regionDomainModel.Code,
+                //    Name = regionDomainModel.Name,
+                //    RegionImageUrl = regionDomainModel.RegionImageUrl
+                //};
 
-            //return Ok(regionDto);
+                //return Ok(regionDto);
 
-            return Ok(mapper.Map<RegionDto>(regionDomainModel));
+                return Ok(mapper.Map<RegionDto>(regionDomainModel));
+           
         }
 
         [HttpDelete]

@@ -19,12 +19,32 @@
       "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,18 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\updateregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{889B3F68-F3EE-42B3-A95A-3D355626FE11}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\arina\\source\\repos\\nzwalks\\nzwalks.api\\migrations\\20250212120527_seeding data for difficulties and regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,347 +125,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 440,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WalksController.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAowFcAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:15:58.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:32:47.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:53:36.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:35:28.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateWalkRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T16:11:21.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WalkDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\WalkDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\WalkDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:38:51.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DifficultyDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:31:16.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateRegionRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:23:15.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddWalkRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:18:05.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Walk.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Walk.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAcwAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:48:27.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegionDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegionDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T12:20:23.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
-              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:00:54.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AddRegionRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:15:15.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250212120527_Seeding Data For Difficulties And Regions.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
-              "RelativeToolTip": "NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAuwCsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T12:05:27.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NZWalksDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
-              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAYwF0AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:28:36.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
-              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:45:00.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\WeatherForecast.cs",
-              "RelativeToolTip": "NZWalks.API\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:17:46.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250206165208_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
-              "RelativeToolTip": "NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:52:08.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20250206165307_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
-              "RelativeToolTip": "NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:53:07.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "NZWalksDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
-              "RelativeToolTip": "NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:57:00.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250206163925_Migration5.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
-              "RelativeToolTip": "NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T16:39:25.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\appsettings.json",
-              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\appsettings.json",
-              "RelativeToolTip": "NZWalks.API\\appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-22T17:22:14.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:22:08.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "NZWalks.API.http",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.http",
-              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.http",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.http",
-              "RelativeToolTip": "NZWalks.API\\NZWalks.API.http",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-22T17:20:11.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "NZWalks.API.csproj",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
-              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.csproj",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
-              "RelativeToolTip": "NZWalks.API\\NZWalks.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-30T15:59:36.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "NZWalks.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "NZWalks.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAEAAAAAAAAAAABhwBUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-22T17:19:54.423Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 14,
+          "DockedWidth": 309,
           "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -478,16 +147,360 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:15:58.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddWalkRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:18:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:32:47.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:35:28.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateRegionRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:23:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:15:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "NZWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:26:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RegionsController.cs",
               "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
               "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwHIAAAAJAAAA",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAHsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T15:30:37.775Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateWalkRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:11:21.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:53:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WalkDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\WalkDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:38:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:31:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:48:27.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:20:23.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:00:54.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250212120527_Seeding Data For Difficulties And Regions.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20250212120527_Seeding Data For Difficulties And Regions.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:05:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwF0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:28:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:45:00.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\WeatherForecast.cs",
+              "RelativeToolTip": "NZWalks.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:17:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250206165208_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20250206165208_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:52:08.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250206165307_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20250206165307_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:53:07.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NZWalksDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\NZWalksDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:57:00.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250206163925_Migration5.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\20250206163925_Migration5.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:39:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T17:22:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:22:08.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NZWalks.API.http",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.http",
+              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.http",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.http",
+              "RelativeToolTip": "NZWalks.API\\NZWalks.API.http",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-22T17:20:11.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NZWalks.API.csproj",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+              "RelativeDocumentMoniker": "NZWalks.API\\NZWalks.API.csproj",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+              "RelativeToolTip": "NZWalks.API\\NZWalks.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T15:59:36.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\NZWalks\\NZWalks.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NZWalks.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T17:19:54.423Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
