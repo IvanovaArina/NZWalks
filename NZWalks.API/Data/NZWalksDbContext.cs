@@ -5,7 +5,7 @@ namespace NZWalks.API.Data
 {
     public class NZWalksDbContext: DbContext
     {
-        public NZWalksDbContext(DbContextOptions dbContextOptions): base(dbContextOptions)
+        public NZWalksDbContext(DbContextOptions<NZWalksDbContext> options): base(options)
         {
                 
         }
@@ -15,10 +15,10 @@ namespace NZWalks.API.Data
         public DbSet<Walk> Walks { get; set; }
 
 
-        protected override void OnModelCreating (ModelBuilder modelBuilder)
+        protected override void OnModelCreating (ModelBuilder builder)
         {
-            base.OnModelCreating (modelBuilder);
-            //Seed datta for Difficulties
+            base.OnModelCreating (builder);
+            //Seed data for Difficulties
             //Easy, Medium, Hard
 
             var difficulties = new List<Difficulty>
@@ -42,7 +42,7 @@ namespace NZWalks.API.Data
                 }
             };
 
-            modelBuilder.Entity<Difficulty>().HasData(difficulties);
+            builder.Entity<Difficulty>().HasData(difficulties);
 
             // Seed data for Regions
             var regions = new List<Region>
@@ -91,7 +91,7 @@ namespace NZWalks.API.Data
                 },
             };
 
-            modelBuilder.Entity<Region>().HasData(regions);
+            builder.Entity<Region>().HasData(regions);
 
         }
     }

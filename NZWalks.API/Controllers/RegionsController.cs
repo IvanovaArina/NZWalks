@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +26,7 @@ namespace NZWalks.API.Controllers
 
         //GET ALL REGIONS
         [HttpGet]
+        [Authorize(Roles = "Reader")]
         public async Task<IActionResult> GetAll()
         {
             //Get data from database - Domain Models
@@ -55,6 +57,7 @@ namespace NZWalks.API.Controllers
         //GET SINGLE REGION (GET REGION BY ID)
         [HttpGet]
         [Route("{id:Guid}")]
+        [Authorize( Roles = "Reader")]
         public async Task<IActionResult> GetById([FromRoute] Guid id)
         {
             //Get Region Domain Model from database 
@@ -85,6 +88,7 @@ namespace NZWalks.API.Controllers
         //POST to create new region
         [ValidateModel]
         [HttpPost]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Create([FromBody] AddRegionRequestDto addRegionRequestDto) 
         {
             //Map to convert dto in domain model 
@@ -122,6 +126,7 @@ namespace NZWalks.API.Controllers
         [HttpPut]
         [Route("{id:Guid}")]
         [ValidateModel]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Update([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegionRequestDto)
         {
             //convert UpdateRegionDto to domain model
@@ -160,6 +165,7 @@ namespace NZWalks.API.Controllers
 
         [HttpDelete]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> Delete([FromRoute] Guid id)
         {
             //check if the region exists 
